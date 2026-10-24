@@ -41,4 +41,4 @@ This format (let's call it version 7) has an header explained below :
 | 0x14 | uint8[11] | 1.1.1.8.3.6 | external (1.1.1) and internal version (8.3.6) |
 | 0x20 | ? | | |
 | 0x30 | uint32[8] | 0x50, 0x7337260, ... | offsets to embedded FIR content |
-| 0x50 | bytes | | first FIR |
+| 0x50 | bytes | | first FIRv6 |
