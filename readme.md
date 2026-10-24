@@ -9,7 +9,7 @@ Version 4 of the format, starting 40D (2007) and before EOS R (2018) is using sy
 - https://magiclantern.fandom.com/wiki/Fir_Security
 - https://magiclantern.fandom.com/wiki/Update_records
 
-This reporitory releases crypto algorithms about version 4 or the algorithms, whereas version 5 has been explained during Hack.lu 2025 conference. File formats for v4 and v5 are very similar, except for signatures and encryption headers. Encryption remains AES 128 CTR, but keys generation is different.
+This repository releases crypto algorithms about version 4 or the algorithms, whereas version 5 has been explained during Hack.lu 2025 conference. File formats for v4 and v5 are very similar, except for signatures and encryption headers. Encryption remains AES 128 CTR, but keys generation is different.
 
 These slides (camera_jailbreak_v2.pdf) are the full version (TLP AMBER) of the slides been presented at BeeRump 2022 conference https://www.rump.beer/2022/category/programme.html, where only a GREEN version has been published in 2022 on the website : https://www.rump.beer/2022/slides/camera_jailbreak_v2_green.pdf.
 
