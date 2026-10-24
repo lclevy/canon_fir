@@ -13,7 +13,7 @@ This repository releases crypto algorithms about version 4 or the algorithms, wh
 
 These slides (camera_jailbreak_v2.pdf) are the full version (TLP AMBER) of the slides been presented at BeeRump 2022 conference https://www.rump.beer/2022/category/programme.html, where only a GREEN version has been published in 2022 on the website : https://www.rump.beer/2022/slides/camera_jailbreak_v2_green.pdf.
 
-**No keys are published. You'll need a camera dump to extract seeds and compute signing and derypting keys.**
+**No keys are published. You'll need a camera dump to extract seeds and compute signing and decrypting keys.**
 
 ## FIR v4 cryptography (40D (2007) and before EOS R (2018))
 
